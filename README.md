@@ -1,8 +1,8 @@
-# Dock App
+# DockMe Android App
 
 ![Dock App Banner](images/dock1.png)
 
-Dock App is a simple and elegant Android application designed to enhance your device's charging experience. It displays the current time in landscape mode and shares inspirational quotes to brighten your day.
+DockMe App is a simple and elegant Android application designed to enhance your device's charging experience. It displays the current time in landscape mode and shares inspirational quotes to brighten your day.
 
 ## Features
 
