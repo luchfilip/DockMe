@@ -1,0 +1,53 @@
+# Gradle files
+.gradle/
+build/
+*/build/
+
+# Local configuration file (SDK path, etc.)
+local.properties
+
+# Log files
+*.log
+
+# Android Studio files
+/.idea/
+*.iml
+
+# Keystore files (sensitive and should be kept secure)
+*.jks
+*.keystore
+
+# Built application files
+*.apk
+*.ap_
+*.aab
+
+# Files for the ART/Dalvik VM
+*.dex
+
+# Java class files
+*.class
+
+# Generated files
+/bin/
+gen/
+out/
+
+# NDK build files
+/obj/
+
+# Crashlytics and Firebase
+crashlytics.properties
+fabric.properties
+google-services.json
+google-services.plist
+
+# ProGuard files
+proguard/
+
+# Miscellaneous
+*.orig
+*.hprof
+.DS_Store
+.idea/
+/app/release
